@@ -9,3 +9,4 @@ And you're done! The command block will fire off and will do everything else for
 DO NOT REMOVE/MOVE THE COMMAND BLOCK.
 
 (Also, make sure to give your admins and yourself the tag "mod", so: "/tag {person} add mod".)
+
