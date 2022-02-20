@@ -1,0 +1,1 @@
+title @a actionbar §cProtected §4§l24/7§r §cBy §6§lShallowAC §r§c(§bdsc.gg/shallow§c)
