@@ -12,3 +12,8 @@ This anticheat has features such as;
 - Banning             (Restrict someone from playing.)
 
 To download, go to releases.
+
+Credits:
+
+Creator: @ShallowVermin33
+Developers: @BlaizerBrumo & @QUATERS11
