@@ -16,6 +16,12 @@ Shallow (MCBE) Anti-Cheat, a very lightweight anticheat capable of defending aga
     * Auto-drags a user to ground when user is detected flying . 
 - Warning systems     (Auto-Warn and manual warn.)
 - Timer/soft-bans     (Ban someone for amounts of time, they will be banned, and then unbanned a while later.)
+     * ___5 Minutes___
+     * ___10 Minutes___
+     * ___20 Minutes___
+     * ___30 Minutes___
+     * ___60 Minutes___
+
 - Modtools            (Tools used for moderating )
      * ___Clear Chat___ - Clears the chat for non admins {/function shallow/modtools/clearchat}
      * ___Ender Chest wipe___ - Wipes All items of enderchest for a user . {/execute <playername> ~ ~ ~ function shallow/modtools/echestwipe}
@@ -27,7 +33,7 @@ Shallow (MCBE) Anti-Cheat, a very lightweight anticheat capable of defending aga
      * ___Reset Player___ - Fully Resets a player (Resets XP , effets , **tags** , invtentory , enderchest , health) {/execute <playername> ~ ~ ~ function shallow/modtools/resetplayer}
 
  - ___Other Features___
-   * ___Tracking Compass___ - Replaces the player's slot 9 of hotbar with a **unmovable , un-dropable , un loseable on death** compass
+   * ___Tracking Compass___ - Replaces the players 9th slot of their hotbar with an **unmovable , un-dropable , not lost on death** compass
       * ___Enable___ - /execute <playername> ~ ~ ~ function shallow/SAC/enable/TrackingCompass
       * ___Disable___ - /execute <playername> ~ ~ ~ function shallow/SAC/disable/TrackingCompass
 
