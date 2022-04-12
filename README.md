@@ -30,7 +30,7 @@ Shallow (MCBE) Anti-Cheat, a very lightweight anticheat capable of defending aga
          * To disable {/tag <playername> add unfreeze}
      * ___Godmode___ - Makes a player invincible . {/tag <playername> add hasgm}
      * ___No-PvP___  - Disables PvP for a Specific player . {/tag <playername> add nopvp}
-     * ___Reset Player___ - Fully Resets a player (Resets XP , effets , **tags** , invtentory , enderchest , health) {/execute <playername> ~ ~ ~ function shallow/modtools/resetplayer}
+     * ___Reset Player___ - Fully Resets a player (Resets XP , effets , **tags** , inventory , enderchest , health) {/execute <playername> ~ ~ ~ function shallow/modtools/resetplayer}
 
  - ___Other Features___
    * ___Tracking Compass___ - Replaces the players 9th slot of their hotbar with an **unmovable , un-dropable , not lost on death** compass
