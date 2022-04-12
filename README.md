@@ -7,14 +7,19 @@ Shallow (MCBE) Anti-Cheat, a very lightweight anticheat capable of defending aga
 # Features 
 - Anti-CBE - (CBE is a cheat to execute commands without operator.)
    * Removes **every** type of moving block from the player  .
-   * Deletes unknown entities
+   * Deletes unknown entities that could cause harm.
+ 
 - Anti-GM              (Prevents users from changing their gamemode.)
-   * Warns Admin when a user is changing gamemode . 
+   * Warns a user changing their gamemode without authorization. 
+
 - Anti-Grief
              (Prevents people from spawning items to cause griefing attacks.)
+             
 - Anti-Fly            (Detects people flying when they shouldn't be.)
     * Auto-drags a user to ground when user is detected flying . 
-- Warning systems     (Auto-Warn and manual warn.)
+
+- Warning systems     (Auto-Warn and manual warn.) {tag <playername> add warn}
+
 - Timer/soft-bans     (Ban someone for amounts of time, they will be banned, and then unbanned a while later.)
      * ___5 Minutes___
      * ___10 Minutes___
@@ -29,16 +34,15 @@ Shallow (MCBE) Anti-Cheat, a very lightweight anticheat capable of defending aga
          * To enable {/tag <playername> add freeze}
          * To disable {/tag <playername> add unfreeze}
      * ___Godmode___ - Makes a player invincible . {/tag <playername> add hasgm}
-     * ___No-PvP___  - Disables PvP for a Specific player . {/tag <playername> add nopvp}
-     * ___Reset Player___ - Fully Resets a player (Resets XP , effets , **tags** , inventory , enderchest , health) {/execute <playername> ~ ~ ~ function shallow/modtools/resetplayer}
+     * ___No-PvP___  - Disables PvP for a specific player . {/tag <playername> add nopvp}
+     * ___Reset Player___ - Fully Resets a player (Resets XP, effects, inventory, and Ender-Chest.) {/execute <playername> ~ ~ ~ function shallow/modtools/resetplayer}
 
  - ___Other Features___
-   * ___Tracking Compass___ - Replaces the players 9th slot of their hotbar with an **unmovable , un-dropable , not lost on death** compass
+   * ___Tracking Compass___ - Replaces the players 9th slot of their hotbar with an **unmovable , undroppable, non-lost-on-death** compass
       * ___Enable___ - /execute <playername> ~ ~ ~ function shallow/SAC/enable/TrackingCompass
       * ___Disable___ - /execute <playername> ~ ~ ~ function shallow/SAC/disable/TrackingCompass
 
 **+MORE**
-
 
 ---
 
