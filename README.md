@@ -7,7 +7,7 @@ Shallow (MCBE) Anti-Cheat, a very lightweight anticheat capable of defending aga
 # Features 
 - Anti-CBE - (CBE is a cheat to execute commands without operator.)
    * Removes **every** type of moving block from the player  .
-   * Deletes "Unknown Entity"        
+   * Deletes unknown entities
 - Anti-GM              (Prevents users from changing their gamemode.)
    * Warns Admin when a user is changing gamemode . 
 - Anti-Grief
