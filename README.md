@@ -26,3 +26,14 @@ Well, I'm not the judge of that, that's your job to find out, but we can tell yo
    2. Useful moderator tools, just look up and you'll see why.
    3. Better support, we are VERY quick to respond to questions and/or support, have a problem? We'll fix it!
    4. Better usabililty, anyone can just download the anticheat, add it to the world, and use it instantly! No setup needed!
+
+# Why should I use ShallowAC?
+Compared to other anticheats, ShallowAC is by far the most versitile in most situations,
+Running an anarchy realm? We got things to support no rules!
+Running a Creative realm? We got settings for you!
+Survival server? Yup!
+PVP? Yes!
+
+If you aren't looking for any of that, then we got other custom settings.
+Dynamic Lighting, hold a torch in your hand to have it light up around you.
+Random fun commands! Such as "Troll", "FakeJoin"/"FakeLeave", "Rickroll", "Vanish"
