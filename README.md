@@ -25,4 +25,4 @@ Well, I'm not the judge of that, that's your job to find out, but we can tell yo
    1. Quick Updates/Bug fixes, we are by FAR the fastest updating anticheat, always working to fix bugs and add new features.
    2. Useful moderator tools, just look up and you'll see why.
    3. Better support, we are VERY quick to respond to questions and/or support, have a problem? We'll fix it!
-   4. Better usabililty, anyone can just download the anticheat and use it instantly! No setup needed!
+   4. Better usabililty, anyone can just download the anticheat, add it to the world, and use it instantly! No setup needed!
