@@ -17,4 +17,12 @@ We have features such as;
    - Anti-CBE *(Detects entities that may be used to cause harm.)*
    - Anti-GM *(Stops and warns a user for changing gamemodes without permission.)*
    - Backup systems *(Just in case the other systems fail, very rarely.)*
-   - Much more to be added soon!
+
+These modules are very powerful, and can stop whole servers from being griefed!
+
+# Is ShallowAC better than most other anticheats?
+Well, I'm not the judge of that, that's your job to find out, but we can tell you what makes us a good anticheat!
+   1. Quick Updates/Bug fixes, we are by FAR the fastest updating anticheat, always working to fix bugs and add new features.
+   2. Useful moderator tools, just look up and you'll see why.
+   3. Better support, we are VERY quick to respond to questions and/or support, have a problem? We'll fix it!
+   4. Better usabililty, anyone can just download the anticheat and use it instantly! No setup needed!
