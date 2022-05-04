@@ -42,4 +42,4 @@ If you aren't looking for any of that, then we got other custom settings.
 Dynamic Lighting, hold a torch in your hand to have it light up around you.
 Random fun commands! Such as "Troll", "FakeJoin"/"FakeLeave", "Rickroll", "Vanish".
 
-And much more coming soon, stick around, and make sure to join our [Discord(https://dsc.gg/ShallowAC)]
+And much more coming soon, stick around, and make sure to join our Discord[https://dsc.gg/ShallowAC]
