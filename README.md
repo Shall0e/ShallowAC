@@ -9,4 +9,4 @@ We have MANY moderator tools for managing members, such as;
    - Error-Logs
    - Member auto-monitor
    - Insta-Spawn
-   - + Much more!
+   And Much more!
