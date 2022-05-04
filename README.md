@@ -29,11 +29,17 @@ Well, I'm not the judge of that, that's your job to find out, but we can tell yo
 
 # Why should I use ShallowAC?
 Compared to other anticheats, ShallowAC is by far the most versitile in most situations,
+
 Running an anarchy realm? We got things to support no rules!
+
 Running a Creative realm? We got settings for you!
 Survival server? Yup!
+
 PVP? Yes!
 
 If you aren't looking for any of that, then we got other custom settings.
+
 Dynamic Lighting, hold a torch in your hand to have it light up around you.
-Random fun commands! Such as "Troll", "FakeJoin"/"FakeLeave", "Rickroll", "Vanish"
+Random fun commands! Such as "Troll", "FakeJoin"/"FakeLeave", "Rickroll", "Vanish".
+
+And much more coming soon, stick around, and make sure to join our [Discord(https://dsc.gg/ShallowAC)]
