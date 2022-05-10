@@ -1,5 +1,7 @@
 <a href="https://github.com/ShallowVermin33/ShallowAC/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/ShallowVermin33/ShallowAC?style=for-the-badge"></a>
+
 <a href="https://github.com/ShallowVermin33/ShallowAC"><img alt="GitHub license" src="https://img.shields.io/github/license/ShallowVermin33/ShallowAC?style=for-the-badge"></a>
+
 <a href="https://github.com/ShallowVermin33/ShallowAC/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/ShallowVermin33/ShallowAC?style=for-the-badge"></a>
 
 <a href="https://github.com/ShallowVermin33/ShallowAC/releases/latest"><img alt="GitHub issues" src="https://img.shields.io/github/downloads/ShallowVermin33/ShallowAC/total?style=for-the-badge"></a>
