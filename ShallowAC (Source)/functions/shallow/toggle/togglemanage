@@ -1,0 +1,4 @@
+scoreboard objectives add toggleantifly dummy toggleantifly
+scoreboard objectives add toggleantiitems dummy toggleantiitem
+scoreboard objectives add toggleantigm dummy toggleantigm
+scoreboard objectives add toggleanticbe dummy toggleanticbe
