@@ -1,1 +1,0 @@
-execute @a[tag=ban] ~ ~ ~ tellraw @a {"rawtext":[{"text":"⟫ §c"},{"selector":"@s[tag=ban]"},{"text":" was softbanned for 1 hour due to unexpected behavior. §e(ShallowAC)"}]}
