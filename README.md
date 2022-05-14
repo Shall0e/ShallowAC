@@ -1,7 +1,7 @@
 <a href="https://github.com/ShallowVermin33/ShallowAC/releases/latest"><img alt="GitHub issues" src="https://img.shields.io/github/downloads/ShallowVermin33/ShallowAC/total?style=for-the-badge"></a> <a href="https://github.com/ShallowVermin33/ShallowAC/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/ShallowVermin33/ShallowAC?style=for-the-badge"></a>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FShallowVermin33%2FShallowAC&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=true)](https://dsc.gg/shallowac)
 
-![GitLab tag (latest by date)](https://img.shields.io/gitlab/v/tag/ShallowVermin33/ShallowAC?style=for-the-badge)
+<img alt="GitHub tag (latest by date)" src="https://img.shields.io/github/v/tag/ShallowVermin33/ShallowAC">
 
 <a href="https://github.com/ShallowVermin33/ShallowAC"><img alt="GitHub license" src="https://img.shields.io/github/license/ShallowVermin33/ShallowAC?style=plastic"></a> <a href="https://github.com/ShallowVermin33/ShallowAC/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/ShallowVermin33/ShallowAC?style=plastic"></a>
 
