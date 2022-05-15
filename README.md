@@ -3,7 +3,7 @@
 <a href="https://github.com/ShallowVermin33/ShallowAC"><img alt="GitHub license" src="https://img.shields.io/github/license/ShallowVermin33/ShallowAC?style=plastic"></a> <a href="https://github.com/ShallowVermin33/ShallowAC/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/ShallowVermin33/ShallowAC?style=plastic"></a>
 
 # ShallowAC
-v2.1.1 (5/14/2021) One of *best* MCBE Anti-Cheats, with over 100 downloads and extremely helpful and powerful tools.
+v2.1.1 (5/14/2021) One of the ***best*** MCBE Anti-Cheats, with over 100 downloads and extremely helpful and powerful tools.
 
 # How can ShallowAC help with my server/realm?
 We have MANY moderator tools for managing members, such as;
