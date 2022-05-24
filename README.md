@@ -56,5 +56,3 @@ And much more coming soon, stick around, and make sure to join our [ShallowAC Di
    * [QUATERS11 / THErealDIVIJ](https://github.com/QUATERS11)
    * [BlaizerBrumo](https://github.com/BlaizerBrumo)
    * [KinggCodes](https://github.com/KinggCodes)
-
-<a href="https://github.com/NightwalkerLots/UAC-Public/releases/latest"><img alt="GitHub issues" src="https://img.shields.io/github/downloads/NightwalkerLots/UAC-Public/total?style=for-the-badge"></a> <img alt="GitHub tag (latest by date)" src="https://img.shields.io/github/v/tag/NightwalkerLots/UAC-Public?style=for-the-badge">
