@@ -55,4 +55,5 @@ And much more coming soon, stick around, and make sure to join our [ShallowAC Di
 * Developers:
    * [QUATERS11 / THErealDIVIJ](https://github.com/QUATERS11)
    * [BlaizerBrumo](https://github.com/BlaizerBrumo)
+   * [KinggCodes](https://github.com/KinggCodes)
 
