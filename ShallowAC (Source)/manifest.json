@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+  "header": {
+    "description": "Shallow Anti-Cheat, a very reliable AC.",
+    "name": "§cShallowAC §6(v2.1.5)§r",
+    "uuid": "a19a7ef2-9df2-43b1-abd5-1bb2285e24ea",
+    "version": [ 2, 1, 5 ],
+    "min_engine_version": [ 1, 16, 0 ]
+  },
+    "modules": [
+      {
+        "description": "Shallow Anti-Cheat, a very reliable AC.",
+        "type": "data",
+        "uuid": "7cb004b8-88bd-4d9e-929e-aa0d7f7ae2a1",
+        "version": [ 2, 1, 5 ]
+      }
+    ]
+}
